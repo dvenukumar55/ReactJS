@@ -1,0 +1,54 @@
+/* card components
+.crd{
+    border: 1px solid black;
+ border-radius: 3px;
+ box-shadow: 5px 5px 5px;
+ padding: 20px;
+ margin: 10px;
+ text-align: center;
+ max-width: 200px;
+ display: inline-block;
+
+}
+
+.crd .img{
+ max-width: 80%;
+}
+
+.crd .nm{
+    font-family: cursive;
+}
+.crd .para{
+    font-family:cursive
+}
+*/
+
+
+/* css styles
+.butt{
+    color:black;
+    background-color: rgb(126, 113, 243);
+    font-size: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+*/
+
+
+/* props
+.stud{
+    border: 1px solid black;
+    font-family: cursive;
+    border-radius: 5px;
+    padding: 10px;
+}
+.stud .p{
+    margin: 0%;
+}
+    */
+
+    
+    
+    
